@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<hmlt lang="fr">
+<head>
+<title> Ma première page web </title>
+</head>
+
+<body>
+<h1> Section diplome </h1>
+<ul>
+  <li>Licence</li>
+  <li>Bac</li>
+</ul>
+<h1>Section expérience professionnelle</h1>
+<ul>
+  <li> Alpinisme</li>
+</ul>
+</body>
+
+</html>
